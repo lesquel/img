@@ -1,58 +1,58 @@
 [
     {
         "id": 1,
-        "img": "img/1.jpeg",
+        "img": "1.jpeg",
         "title": ""
     },
     {
         "id": 2,
-        "img": "img/2.jpeg",
+        "img": "2.jpeg",
         "title": ""
     },{
         "id": 3,
-        "img": "img/3.jpeg",
+        "img": "3.jpeg",
         "title": ""
     },
     {
         "id": 4,
-        "img": "img/4.jpeg",
+        "img": "4.jpeg",
         "title": ""
     },
     {
         "id": 5,
-        "img": "img/5.jpeg",
+        "img": "5.jpeg",
         "title": ""
     },{
         "id": 6,
-        "img": "img/6.jpeg",
+        "img": "6.jpeg",
         "title": ""
     },
     {
         "id": 7,
-        "img": "img/7.jpeg",
+        "img": "7.jpeg",
         "title": ""
     },
     {
         "id": 8,
-        "img": "img/8.jpeg",
+        "img": "8.jpeg",
         "title": ""
     },{
         "id": 9,
-        "img": "img/9.jpeg",
+        "img": "9.jpeg",
         "title": ""
     },
     {
         "id": 10,
-        "img": "img/10.jpeg",
+        "img": "10.jpeg",
         "title": ""
     },
     {
         "id": 11,
-        "img": "img/11.jpeg",
+        "img": "11.jpeg",
         "title": ""
     },{
         "id": 12,
-        "img": "img/12.jpeg",
+        "img": "12.jpeg",
         "title": ""
     }
 ]
